@@ -1,24 +1,19 @@
 <h1 align="center">Hi 👋, I'm Reda Rasmy</h1>
-<h3 align="center">A passionate frontend developer</h3>
 
-<p align="left">
-</p>
+### **Frontend Developer | TypeScript & React Enthusiast**  
 
-## 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+💻 **Tech Stack:**  
+- **Frontend:** React, TypeScript, TailwindCSS , Redux toolkit , zustand , ...
+- **Backend:** Nextjs , postgresql , drizzle-orm , socket.io , ...
+
+🌱 **Currently Focusing On:**  
+- Mastering **React** (Advanced Patterns, Performance Optimization)  
+- Learning **Backend Development** with NodeJs (TS) 
+- Exploring **Full-Stack Development** and **Java**
+
+🚀 **My Journey:**  
+- 1 year of experience with **React & Next.js**  
+- Passionate about **clean, efficient code**  
+- Constantly learning and building new projects 
 
 
-<!--
-**RedaRasmy/redarasmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
