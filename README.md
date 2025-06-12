@@ -7,10 +7,10 @@
 - **Backend:** Nextjs , postgresql , drizzle-orm , socket.io , ...
 
 🌱 **Currently Focusing On:**  
-- Mastering **React** (Advanced Patterns, Performance Optimization)  
-- Learning **Backend Development** with NodeJs (TS) 
-- Exploring **Full-Stack Development** and **Java**
+- Mastering **React & Next.js** (Performance Optimization , SEO , ...)  
+- Exploring **Java**
 
+<!--
 🚀 **My Journey:**  
 - 1 year of experience with **React & Next.js**  
 - Passionate about **clean, efficient code**  
