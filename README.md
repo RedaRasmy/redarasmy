@@ -4,11 +4,11 @@
 
 💻 **Tech Stack:**  
 - **Frontend:** React, TypeScript, TailwindCSS , Redux toolkit , zustand , ...
-- **Backend:** Nextjs , postgresql , drizzle-orm , socket.io , ...
+- **Backend:** Node.js , Nextjs , postgresql , drizzle-orm , socket.io , ...
 
 🌱 **Currently Focusing On:**  
 - Mastering **React & Next.js** (Performance Optimization , SEO , ...)  
-- Exploring **Java**
+- Exploring **Java** & **Spring boot**
 
 <!--
 🚀 **My Journey:**  
