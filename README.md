@@ -3,11 +3,11 @@
 ### **Fullstack Developer | TypeScript & Nextjs Enthusiast**  
 
 💻 **Tech Stack:**  
-- **Frontend:** React, TypeScript, TailwindCSS , Redux toolkit , zustand , dnd-kit , ...
-- **Backend:** Node.js , Nextjs , postgresql , drizzle-orm , socket.io , ...
+- **Frontend:** React, TypeScript, TailwindCSS , Redux toolkit , Zustand , Dnd-kit ...
+- **Backend:** Nodejs , Nextjs , Postgresql , Drizzle ...
 
 🌱 **Currently Focusing On:**  
-- Mastering **React & Next.js** (Performance Optimization , SEO , ...)  
+- Mastering **React & Next.js** ( Performance Optimization , SEO )  
 - Exploring **Java** & **Spring boot**
 
 <!--
