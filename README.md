@@ -7,7 +7,7 @@
 - **Backend:** Nodejs , Nextjs , Postgresql , Drizzle ...
 
 🌱 **Currently Focusing On:**  
-- Mastering **React & Next.js** ( Performance Optimization , SEO )  
+- Mastering **React & Next.js** ( Testing , SEO , Complex animations )  
 - Exploring **Java** & **Spring boot**
 
 <!--
