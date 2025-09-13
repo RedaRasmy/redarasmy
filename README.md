@@ -7,8 +7,8 @@
 - **Backend:** Nodejs, Nextjs, Postgresql, Supabase, Drizzle, Next-auth ...
 
 🌱 **Currently Focusing On:**  
-- Mastering **React & Next.js** 
-- Exploring **Java** & **Spring boot**
+- Mastering **React**
+- Learning **Express.js**
 
 🚀 **My Journey:**  
 - +1 year of experience with **React & Next.js**  
