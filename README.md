@@ -12,7 +12,6 @@
 
 🚀 **My Journey:**  
 - +1 year of experience with **React & Next.js**  
-- Passionate about **clean, efficient code**  
 - Constantly learning and building new projects 
 
 
