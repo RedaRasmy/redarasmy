@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reda Rasmy</h1>
 
-### **Fullstack Developer | TypeScript & Nextjs Enthusiast**  
+### **Fullstack Web Developer | TypeScript & Nextjs Enthusiast**  
 
 💻 **Tech Stack:**  
 - **Frontend:** React, TypeScript, TailwindCSS, ShadcnUI, Redux toolkit, Zustand, Motion, Dnd-kit ...
