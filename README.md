@@ -3,15 +3,14 @@
 ### **Fullstack Web Developer | TypeScript & Nextjs Enthusiast**  
 
 💻 **Tech Stack:**  
-- **Frontend:** React, TypeScript, TailwindCSS, ShadcnUI, Redux toolkit, Zustand, Motion, Dnd-kit ...
-- **Backend:** Nodejs, Nextjs, Postgresql, Supabase, Drizzle, Next-auth ...
+- **Frontend:** React, react-router, react-query, axios, TailwindCSS, ShadcnUI, Redux toolkit ...
+- **Backend:** Nodejs, Express, jwt, Postgresql, Drizzle, Next.js, Next-auth ...
 
 🌱 **Currently Focusing On:**  
-- Mastering **React**
-- Learning **Express.js**
+- Mastering **React & Express**
 
 🚀 **My Journey:**  
-- +1 year of experience with **React & Next.js**  
+- +1 year of experience with **React**  
 - Constantly learning and building new projects 
 
 
