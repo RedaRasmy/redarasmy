@@ -7,7 +7,8 @@
 - **Backend:** Nodejs, Express, jwt, Postgresql, Drizzle, Next.js, Next-auth ...
 
 🌱 **Currently Focusing On:**  
-- Mastering **React & Express**
+- Full-Stack web development with **PERN** stack
+- WebSockets with **ws** and **Socket.io**
 
 🚀 **My Journey:**  
 - +1 year of experience with **React**  
