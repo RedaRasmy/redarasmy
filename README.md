@@ -4,11 +4,11 @@
 
 💻 **Tech Stack:**  
 - **Frontend:** React, react-router, react-query, TailwindCSS, Redux toolkit ...
-- **Backend:** Nodejs, Express, Postgres, JWT, Drizzle, Next.js ...
+- **Backend:** Nodejs, Express, Postgres, Drizzle orm, JWT, OAuth, Socket.io ...
+- **Testing:** vitest, RTL, msw, playwright
 
-🌱 **Currently Focusing On:**  
+🌱 **Currently Focusing On:**
 - Full-Stack web development with **PERN** stack
-- WebSockets with **ws** and **Socket.io**
 
 🚀 **My Journey:**  
 - +1 year of experience with **React**  
