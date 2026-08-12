@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reda Rasmy</h1>
+<h1 align="center">Hi 👋, I'm Reda</h1>
 
 ### **Fullstack Web Developer | 100% TypeScript**  
 
